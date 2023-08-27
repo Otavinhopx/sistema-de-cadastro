@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar este projeto em sua máquina, instale:
+Para rodar este projeto em sua máquina, por favor digite:
 
 ```
 npm instal react
